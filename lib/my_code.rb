@@ -2,4 +2,7 @@
 
 
 def map(array)
-  
+counter = 0 
+array = []
+
+end
