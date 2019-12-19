@@ -23,7 +23,7 @@ def reduce(array, starting_point = nil)
   end
   
   while counter < array.count 
-  
+    yield
   end
   
 end 
