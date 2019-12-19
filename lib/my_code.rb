@@ -17,4 +17,5 @@ def reduce(array, starting_point = nil)
     num1 = starting_point
     counter = 0 
   end
+  else 
 end 
