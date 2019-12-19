@@ -21,4 +21,10 @@ def reduce(array, starting_point = nil)
     num1 = array[0]
     counter = 0
   end
+  
+  while counter
+  
 end 
+
+
+
