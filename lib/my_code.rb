@@ -12,6 +12,6 @@ new_array = []
 end
 
 
-def reduce(array, starting_value = nil)
+def reduce(array, starting_point = nil)
   
 end 
