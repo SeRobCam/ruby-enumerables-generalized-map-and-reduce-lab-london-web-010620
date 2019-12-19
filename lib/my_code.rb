@@ -19,7 +19,7 @@ def reduce(array, starting_point = nil)
   end
   else 
     sum = array[0]
-    counter = 0
+    counter = 1
   end
   
   while counter < array.count 
