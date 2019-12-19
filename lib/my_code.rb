@@ -18,4 +18,6 @@ def reduce(array, starting_point = nil)
     counter = 0 
   end
   else 
+    num1 = starting_point
+  end
 end 
