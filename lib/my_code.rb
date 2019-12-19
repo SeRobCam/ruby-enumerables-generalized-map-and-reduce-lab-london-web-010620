@@ -3,10 +3,10 @@
 
 def map(array)
 counter = 0 
-array = []
+new_array = []
   while counter < array.count do 
     array << yield(array[counter])
   counter += 1
   end
-  array
+  new_array
 end
