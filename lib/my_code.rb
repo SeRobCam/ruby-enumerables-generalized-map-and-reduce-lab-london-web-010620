@@ -5,6 +5,7 @@ def map(array)
 counter = 0 
 array = []
   while counter < array.count do 
-    array << 
+    array << yield(array[counter])
 
+  end
 end
