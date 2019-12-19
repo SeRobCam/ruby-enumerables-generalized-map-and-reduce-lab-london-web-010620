@@ -22,7 +22,9 @@ def reduce(array, starting_point = nil)
     counter = 0
   end
   
-  while counter
+  while counter < array.count 
+  
+  end
   
 end 
 
