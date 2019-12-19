@@ -16,7 +16,6 @@ def reduce(array, starting_point = nil)
   if starting_point
     sum = starting_point
     counter = 0 
-  end
   else 
     sum = array[0]
     counter = 1
